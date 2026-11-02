@@ -1,4 +1,4 @@
-# 📡 Comunicación digital inalámbrica GFSK con Raspberry Pi Pico 2W y nRF24L01
+# 📡 Comunicación digital inalámbrica GFSK con Raspberry Pi Pico 2W y NRF24L01
 
 Implementación y análisis de un enlace inalámbrico en la banda ISM de 2,4 GHz, utilizando dos tarjetas Raspberry Pi Pico 2W y módulos transceptores nRF24L01. El proyecto incluye análisis de la interfaz SPI, pruebas de alcance, evaluación de errores de transmisión y caracterización espectral.
 
